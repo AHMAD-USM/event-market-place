@@ -1,2 +1,2 @@
 # event-market-place
-the coonct event planner to service
+the connect event planner to service
